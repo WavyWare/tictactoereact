@@ -90,6 +90,7 @@ tictactoereact/
 │   ├── index.js            # React entry point
 │   └── index.css           # Global styles
 ├── package.json            # Dependencies and scripts
+├── .gitignore              # Git ignore file
 └── README.md               # This file
 ```
 
